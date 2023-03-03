@@ -1,0 +1,23 @@
+{
+  "name": "api-tarefas",
+  "version": "1.0.0",
+  "description": "minha api de tarefas",
+  "main": "index.js",
+  "scripts": {
+    "serve": "node ./api/index.js",
+    "dev": "nodemon ./api/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "to-do",
+    "to-do",
+    "list",
+    "lista",
+    "de",
+    "tarefas",
+    "paciencia",
+    "dev"
+  ],
+  "author": "Rafael Paciencia",
+  "license": "ISC"
+}
