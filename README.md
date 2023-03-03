@@ -17,7 +17,7 @@ npm -v
 ```
 
 <p>
-Para desenvolver localmente, utilize o nodemom:
+Para desenvolver localmente, utilize o nodemon:
 </p>
 
 ```
